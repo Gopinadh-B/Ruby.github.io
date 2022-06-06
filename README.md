@@ -9,4 +9,7 @@ The rssManager.rb file is our custom Library/API to extract and parse data from 
 # 3. Creating Ruby Main File:
 The Main.rb file is the entry point of our RSS Reader Application. Usually In computer programming, an entry point is where the first instructions of a program are executed.
 # Final result:
-After executing the Ruby Script the RSS Reader Application will display the latest YAHOO News!.
+Keep these three ruby files in a new folder on the  local drive called RssReaderApp. Execute these commands in the command prompt.
+1.cd C:\RssReaderApp
+2.C:\RssReaderApp>ruby main.rb
+After executing these commands the RSS Reader Application will display the latest YAHOO News!
